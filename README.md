@@ -3,10 +3,10 @@
 🧑‍🦱 I'm Flávio!<br>
 🎯 My main goal is to become a Frontend Jr<br>
 🇧🇷 I live in Rio de Janeiro, Brazil<br>
-🌱 Currently I'm studying the web development triade
+🌱 Currently I'm studying the web development triade (HTML, CSS and JS)
 
 
-## Projects
+## My portfolio
 - [FlexBlog](https://flaviosp15.github.io/flexblog/)
 - [Guess My Number](https://flaviosp15.github.io/guess-my-number/)
 - [Landing Page](https://flaviosp15.github.io/landing-page-1/)
@@ -29,6 +29,7 @@
   <img align="center" alt="jQuery logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   <img align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
+</div>
 </div>
 
 <hr>
