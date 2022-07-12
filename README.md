@@ -1,7 +1,7 @@
 # Welcome to my Github profile! 👋
 
 🧑‍🦱 I'm Flávio!<br>
-🎯 My main goal is to become a Frontend Jr<br>
+🎯 My main goal is to become a Front-End Developer<br>
 🇧🇷 I live in Rio de Janeiro, Brazil<br>
 🌱 Currently I'm studying the web development triade (HTML, CSS and JS)
 
