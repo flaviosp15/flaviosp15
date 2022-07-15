@@ -7,7 +7,7 @@
 
 
 ## My portfolio
-- <a href="https://flaviosp15.github.io/flexblog/" target="_blank">[FlexBlog]</a>(https://flaviosp15.github.io/flexblog/)
+- [FlexBlog](https://flaviosp15.github.io/flexblog/)
 - [Guess My Number](https://flaviosp15.github.io/guess-my-number/)
 - [Landing Page](https://flaviosp15.github.io/landing-page-1/)
 - [Lista de Tarefas](https://flaviosp15.github.io/lista-de-tarefas/)
