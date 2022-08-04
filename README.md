@@ -10,7 +10,6 @@
 - [Countdown Timer](https://flaviosp15.github.io/countdown-timer/)
 - [Guess My Number](https://flaviosp15.github.io/guess-my-number/)
 - [Landing Page](https://flaviosp15.github.io/landing-page-1/)
-- [Lista de Tarefas](https://flaviosp15.github.io/lista-de-tarefas/)
 - [Pig Game](https://flaviosp15.github.io/pig-game/)
 
 <hr>
