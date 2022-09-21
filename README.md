@@ -3,7 +3,7 @@
 🧑‍🦱 I'm Flávio!<br>
 🎯 My main goal is to become a Front-End Developer<br>
 🇧🇷 I live in Rio de Janeiro, Brazil<br>
-🌱 Currently I'm studying the web development triade (HTML, CSS and JS)
+🌱 Currently I'm studying HTML, CSS and JS.
 
 
 ## My portfolio
