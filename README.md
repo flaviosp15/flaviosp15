@@ -7,6 +7,7 @@
 
 
 ## My portfolio
+- [To Do List](https://flaviosp15.github.io/todo-list/)
 - [Mon et Ton Website](https://monetton.netlify.app/)
 - [Countdown Timer](https://flaviosp15.github.io/countdown-timer/)
 - [Landing Page](https://flaviosp15.github.io/landing-page-1/)
