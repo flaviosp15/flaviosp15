@@ -1,8 +1,8 @@
 # Welcome to my Github profile! 👋
 
 🧑‍🦱 I'm Flávio!<br>
-🎯 My main goal is to become a Front-End Developer<br>
-🇧🇷 I live in Rio de Janeiro, Brazil<br>
+🎯 My main goal is to become Front-End Developer<br>
+📍 I live in Rio de Janeiro, Brazil<br>
 🌱 Currently I'm studying HTML, CSS and JS.
 
 
@@ -20,13 +20,16 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosp15&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Technologies that I know:
-<div style="display: inline_block"><br>
+## Knowledges:
+<div style="display: flex"><br>
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="jQuery logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  <img align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="SASS logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    <img align="center" alt="Bootstrap logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gulp logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg">
   <img align="center" alt="Git logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
 </div>
 </div>
