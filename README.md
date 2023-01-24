@@ -3,7 +3,7 @@
 🧑‍🦱 I'm Flávio!<br>
 🎯 My main goal is to become Front-End Developer<br>
 📍 Rio de Janeiro, Brazil<br>
-🌱 Currently I'm studying React and SASS.
+🌱 Currently I'm studying React and Typescript.
 
 
 ## My portfolio
