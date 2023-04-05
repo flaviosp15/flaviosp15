@@ -5,12 +5,8 @@
 📍 Rio de Janeiro, Brazil<br>
 🌱 Currently I'm studying React and Typescript.
 
+[<img src="https://www.codewars.com/users/flaviosp15/badges/micro" height="28px">](https://www.codewars.com/users/flaviosp15)
 
-## My portfolio
-- [To Do List](https://flaviosp15.github.io/todo-list/)
-- [Mon et Ton Website](https://monetton.netlify.app/)
-- [Countdown Timer](https://flaviosp15.github.io/countdown-timer/)
-- [Landing Page](https://flaviosp15.github.io/landing-page-1/)
 
 <hr>
 
