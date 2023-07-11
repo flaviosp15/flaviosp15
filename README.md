@@ -3,7 +3,6 @@
 🧑‍🦱 I'm Flávio!<br>
 🎯 My main goal is to become Front-End Developer<br>
 📍 Rio de Janeiro, Brazil<br>
-🌱 Currently I'm studying Node.js.
 
 [<img src="https://www.codewars.com/users/flaviosp15/badges/micro" height="28px">](https://www.codewars.com/users/flaviosp15)
 
@@ -13,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/flaviosp15">
   <img style="width:50%;" src="https://github-readme-stats.vercel.app/api?username=flaviosp15&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img style="width:50%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosp15&layout=compact&langs_count=7&theme=transparent"/>
+  <img style="width:45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviosp15&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 ## Knowledges:
