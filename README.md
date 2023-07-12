@@ -1,7 +1,7 @@
 # Welcome to my Github profile! 👋
 
-🧑‍🦱 I'm Flávio!<br>
-🎯 My main goal is to become Front-End Developer<br>
+👨🏻 I'm Flávio!<br>
+👨🏻‍💻 Front-End Developer<br>
 📍 Rio de Janeiro, Brazil<br>
 
 [<img src="https://www.codewars.com/users/flaviosp15/badges/micro" height="28px">](https://www.codewars.com/users/flaviosp15)
