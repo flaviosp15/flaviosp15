@@ -1,7 +1,7 @@
 # Welcome to my Github profile! 👋
 
 👨🏻 I'm Flávio!<br>
-👨🏻‍💻 Front-End Developer<br>
+👨🏻‍💻 Fullstack Developer<br>
 📍 Rio de Janeiro, Brazil<br>
 
 [<img src="https://www.codewars.com/users/flaviosp15/badges/micro" height="28px">](https://www.codewars.com/users/flaviosp15)
