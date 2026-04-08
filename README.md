@@ -7,8 +7,6 @@
 [<img src="https://www.codewars.com/users/flaviosp15/badges/micro" height="28px">](https://www.codewars.com/users/flaviosp15)
 
 
-<hr>
-
 ## Knowledges:
 <div style="display: flex"><br>
   <img align="center" alt="HTML logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
